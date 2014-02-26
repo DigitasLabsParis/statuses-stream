@@ -1,12 +1,11 @@
-user-stream
+statuses-stream
 =============
-### Version: 0.0.7 ###
+### Version: 0.0.1 ###
 
-Simple Node.js Twitter (API 1.1) user stream client (https://dev.twitter.com/docs/streaming-apis/streams/user)
+Simple Node.js Twitter (API 1.1) statuses stream client (https://dev.twitter.com/docs/streaming-apis/streams/user)
 
-Install
--------
-```npm install user-stream```
+forked and edited from [https://github.com/aivis/user-stream](https://github.com/aivis/user-stream)
+
 
 Usage
 -------
@@ -20,7 +19,7 @@ var stream = new Stream({
 });
 
 //create stream
-stream.stream();
+stream.stream({track:'tag1,tag2,tag3'});
 
 //listen stream data
 stream.on('data', function(json) {

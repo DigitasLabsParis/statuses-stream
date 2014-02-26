@@ -14,7 +14,7 @@ var stream = new Stream({
  // * - heartbeat
 
 //create stream
-stream.stream();
+stream.stream({track:'#iphone,#ipad'});
 
 //stream JSON data
 stream.on('data', function(data){
