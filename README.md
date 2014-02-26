@@ -6,6 +6,9 @@ Simple Node.js Twitter (API 1.1) statuses stream client (https://dev.twitter.com
 
 forked and edited from [https://github.com/aivis/user-stream](https://github.com/aivis/user-stream)
 
+Install
+-------
+npm install git@github.com:DigitasLabsParis/user-stream.git
 
 Usage
 -------
