@@ -1,6 +1,6 @@
 {
 	"name": "statuses-stream",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Simple twitter user stream client. Only one dependency (oauth). forked from https://github.com/aivis/user-stream",
 	"keywords": ["twitter","streaming"], 
 	"author": "Julien Terraz",
