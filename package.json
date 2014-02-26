@@ -1,11 +1,11 @@
 {
-	"name": "user-stream",
+	"name": "statuses-stream",
 	"version": "0.1.0",
-	"description": "Simple twitter user stream client. Only one dependency (oauth).",
+	"description": "Simple twitter user stream client. Only one dependency (oauth). forked from https://github.com/aivis/user-stream",
 	"keywords": ["twitter","streaming"], 
-	"author": "Aivis Silins",
+	"author": "Julien Terraz",
 	"dependencies": {
-		"oauth": "0.9.11"
+		"oauth": "0.9.8"
 	}, 
 	"repository" : {
 		"type": "git",
