@@ -9,6 +9,6 @@
 	}, 
 	"repository" : {
 		"type": "git",
-		"url": "git@github.com:aivis/user-stream.git"
+		"url": "git@github.com:DigitasLabsParis/user-stream.git"
 	}
 }
