@@ -2,6 +2,8 @@ statuses-stream
 =============
 ### Version: 0.0.1 ###
 
+[![Build Status](https://travis-ci.org/DigitasLabsParis/statuses-stream.png?branch=master)](https://travis-ci.org/DigitasLabsParis/statuses-stream)
+
 Simple Node.js Twitter (API 1.1) statuses stream client (https://dev.twitter.com/docs/streaming-apis/streams/user)
 
 forked and edited from [https://github.com/aivis/user-stream](https://github.com/aivis/user-stream)
@@ -44,14 +46,7 @@ Methods
 - ```stream```  - create stream connection
 - ```destroy``` - destroy/close stream connection
 
-### Streaming API request parameters [link](https://dev.twitter.com/docs/streaming-apis/parameters) ###
-```javascript
-var params = {
-    with: 'user'
-}
-//create stream
-stream.stream(params);
-```
+
 #### Reserved parameters for lib
 - ```delimited``` 
 - ```stall_warnings```
