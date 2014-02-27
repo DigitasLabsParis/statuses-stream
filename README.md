@@ -4,13 +4,16 @@ statuses-stream
 
 [![Build Status](https://travis-ci.org/DigitasLabsParis/statuses-stream.png?branch=master)](https://travis-ci.org/DigitasLabsParis/statuses-stream)
 
-Simple Node.js Twitter (API 1.1) statuses stream client (https://dev.twitter.com/docs/streaming-apis/streams/user)
+Simple Node.js Twitter (API 1.1) statuses stream client (https://dev.twitter.com/docs/api/1.1/post/statuses/filter)
 
 forked and edited from [https://github.com/aivis/user-stream](https://github.com/aivis/user-stream)
 
 Install
 -------
+
+```
 npm install statuses-stream
+```
 
 Usage
 -------
