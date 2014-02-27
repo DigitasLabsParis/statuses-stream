@@ -10,7 +10,7 @@ forked and edited from [https://github.com/aivis/user-stream](https://github.com
 
 Install
 -------
-npm install git@github.com:DigitasLabsParis/user-stream.git
+npm install statuses-stream
 
 Usage
 -------
