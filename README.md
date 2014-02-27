@@ -1,5 +1,5 @@
 statuses-stream
-=============
+==============
 ### Version: 0.0.1 ###
 
 [![Build Status](https://travis-ci.org/DigitasLabsParis/statuses-stream.png?branch=master)](https://travis-ci.org/DigitasLabsParis/statuses-stream)
